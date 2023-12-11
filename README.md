@@ -1,2 +1,2 @@
 # FacemaskDetectionRaspberry
-Facemask Detection using Raspberry Pi 
+Facemask Detection using MobileNetSSD model and Raspberry Pi 
